@@ -1,0 +1,9 @@
+1. To start making project from scratch using expo-cli
+-> npx expo-cli init project_name --npm
+2. To install react-navigation
+-> npm i react-navigation
+-> expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+-> npm install react-navigation-stack @react-native-community/masked-view
+
+To clear cache start
+-> expo r -c
